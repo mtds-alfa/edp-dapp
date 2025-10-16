@@ -1,1 +1,1 @@
-# edp-dapp
+Decentralized Application - Aplicativo Descentralizado
